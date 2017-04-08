@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapExample</string>
+    <string name="maps_api_key">Put Your Api Key</string>
+</resources>
